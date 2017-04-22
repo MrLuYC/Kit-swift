@@ -6,10 +6,12 @@
 //  Copyright © 2017年 Geek. All rights reserved.
 //
 
+
 import UIKit
 
 fileprivate let targetWPx: CGFloat = 414.0
 fileprivate let targetHPx: CGFloat = 736.0
+fileprivate let a = 10
 
 // MARK: - 扩展 UIView
 extension UIView{
